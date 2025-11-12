@@ -124,3 +124,12 @@
 
 
 </project>
+
+
+<distributionManagement>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>trialhe0ij1-namg-libs-release-libs-snapshot-snapshots</name>
+        <url>https://trialhe0ij1.jfrog.io/artifactory/namg-libs-release-libs-snapshot</url>
+    </snapshotRepository>
+</distributionManagement>
